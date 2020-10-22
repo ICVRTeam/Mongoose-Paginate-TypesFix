@@ -1,0 +1,2 @@
+# Mongoose-Paginate-TypesFix
+
