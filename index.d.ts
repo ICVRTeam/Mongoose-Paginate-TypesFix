@@ -33,7 +33,7 @@ declare module 'mongoose' {
         /* tslint:disable-next-line: ban-types */
         sort?: Object | string;
         customLabels?: CustomLabels;
-        collation?: CollationOptions;
+        collation?: any;        // CollationOptions
         /* tslint:disable-next-line: ban-types */
         populate?: Object[] | string[] | Object | string | QueryPopulateOptions;
         lean?: boolean;
