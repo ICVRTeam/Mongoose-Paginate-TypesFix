@@ -44,7 +44,7 @@
     },
     "scripts": {},
     "dependencies": {
-        "@types/mongoose": "*"
+        "@types/mongoose": "5.7.11"
     },
     "typesPublisherContentHash": "e128e7a86ffaaf6e8600979ef5e32bea602963c809039eb725fb1e60405ffa35",
     "typeScriptVersion": "3.0"
